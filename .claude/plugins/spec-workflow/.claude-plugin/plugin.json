@@ -1,0 +1,16 @@
+{
+  "name": "spec-workflow",
+  "version": "1.0.0",
+  "description": "Complete Spec-Driven Development workflow: intake, parallel requirements/design/tasks generation with tree-based judge evaluation, prior art research, data architecture decisions, deliberative refinement, and Speckit/OpenSpec toolchain handoff.",
+  "author": {
+    "name": "pi"
+  },
+  "tags": [
+    "specs",
+    "requirements",
+    "design",
+    "planning",
+    "sdd",
+    "speckit"
+  ]
+}
